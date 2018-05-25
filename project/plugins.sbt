@@ -1,2 +1,2 @@
-addSbtPlugin("com.typesafe.sbt" % "sbt-site" % "1.1.0")
-addSbtPlugin("org.tpolecat" % "tut-plugin" % "0.4.7")
+addSbtPlugin("com.typesafe.sbt" % "sbt-site" % "1.3.2")
+addSbtPlugin("org.tpolecat" % "tut-plugin" % "0.6.4")
